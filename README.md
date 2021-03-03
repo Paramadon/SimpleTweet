@@ -1,3 +1,9 @@
+This is a twitter api that gets the tweets that are on your timeline.
+
+![walkthrough_twitter](https://user-images.githubusercontent.com/50599809/109740779-d513f600-7b99-11eb-87a5-ab6139f2bde7.gif)
+
+
+
 # RestClientTemplate [![Build Status](https://travis-ci.org/codepath/android-rest-client-template.svg?branch=master)](https://travis-ci.org/codepath/android-rest-client-template)
 
 ## Overview
