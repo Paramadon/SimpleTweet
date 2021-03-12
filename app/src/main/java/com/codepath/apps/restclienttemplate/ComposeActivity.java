@@ -40,6 +40,7 @@ public static final int MAX_TWEET_LENGTH = 140;
        //Set click listener on button
         btnTweet.setOnClickListener(new View.OnClickListener() {
             @Override
+            //onclick
             public void onClick(View v) {
                 String tweetContent = etCompose.getText().toString();
                 if(tweetContent.isEmpty()){
