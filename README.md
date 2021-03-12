@@ -1,6 +1,6 @@
-This is a twitter api that gets the tweets that are on your timeline.
+This is a twitter api that gets the tweets that are on your timeline, and you can post tweets on your account. 
 
-![walkthrough_twitter](https://user-images.githubusercontent.com/50599809/109740779-d513f600-7b99-11eb-87a5-ab6139f2bde7.gif)
+![walkthrough_twitter_Final](https://user-images.githubusercontent.com/50599809/110889577-6c74f980-82bc-11eb-833c-18320fefe5ad.gif)
 
 
 
